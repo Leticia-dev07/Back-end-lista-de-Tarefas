@@ -1,5 +1,3 @@
-# Back-end-lista-de-Tarefas
-API REST desenvolvida com Spring Boot, Hibernate e H2 Database para gerenciamento de tarefas.
 # 📝 Back-end Lista de Tarefas
 
 API REST desenvolvida com Spring Boot para gerenciamento de tarefas (To-Do List).
