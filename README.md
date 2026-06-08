@@ -39,7 +39,7 @@ API REST para gerenciamento de tarefas, desenvolvida com **Spring Boot + H2 (ban
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/back-end-lista-de-tarefas.git
+git clone https://github.com/Leticia-dev07/Back-end-lista-de-Tarefas.git
 cd back-end-lista-de-tarefas
 
 # 2. Execute com Maven Wrapper (não precisa ter Maven instalado)
