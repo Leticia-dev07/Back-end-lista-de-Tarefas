@@ -199,7 +199,8 @@ Remove uma tarefa pelo ID.
 **Resposta 200:** sem corpo
 
 ---
-
+## OBS: No Spring Boot, o Controller cumpre o papel de routes — as rotas são declaradas por anotações (@GetMapping, @PostMapping, etc.) diretamente nos métodos do Controller, que é o padrão do framework.
+---
 ## 🔗 Frontend
 
 Repositório do app mobile: [TodoApp — React Native](https://github.com/seu-usuario/todo-app-mobile)
